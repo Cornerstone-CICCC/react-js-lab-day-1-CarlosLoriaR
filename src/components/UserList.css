@@ -27,17 +27,3 @@ table th {
   cursor: pointer;
   background-color: #f0f0f0;
 }
-
-.btn-view {
-  background-color: #17a2b8;
-  color: white;
-}
-
-.btn-edit {
-  background-color: #ffc107;
-}
-
-.btn-delete {
-  background-color: #dc3545;
-  color: white;
-}

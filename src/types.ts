@@ -8,4 +8,4 @@ export interface User {
   bio: string;
 }
 
-export type UserFormData = Omit<User, 'id'>;
+export type UserFormData = Omit<User, "id">;
