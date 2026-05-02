@@ -1,0 +1,13 @@
+.profile-field {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.profile-field label {
+  font-weight: bold;
+}
+
+.profile-field p {
+  margin: 5px 0 0 0;
+}
